@@ -1,0 +1,40 @@
+C:\Users\91842\Desktop>python question1.py
+1st Question(Find average of three numbers)
+enter number 1=56
+enter number 2=7
+enter number 3=9
+24.0
+
+
+C:\Users\91842\Desktop>python question2.py
+2nd Question(Compute a person's income tax)
+Enter Gross Income to the nearest penny=20000
+Enter number of dependents=1
+140.0
+
+
+C:\Users\91842\Desktop>python question3.py
+3rd Question(Store a student's data in a list)
+Enter your SID=21105019
+Enter your Name=Mudit Madan
+Enter your Course Name=ECE
+Enter your cgpa=8.7
+Enter your gender F/M/U=M
+[21105019, 'Mudit Madan', 'ECE', 8.7, 'M']
+
+
+C:\Users\91842\Desktop>python question4.py
+4th Question(List of marks for 5 students)
+Enter marks for 1st Student=5
+Enter marks for 2nd Student=8
+Enter marks for 3rd Student=7
+Enter marks for 4th Student=9
+Enter marks for 5th Student2
+[2.0, 5.0, 7.0, 8.0, 9.0]
+
+
+C:\Users\91842\Desktop>python question5.py
+5th Question
+['RED', 'GREEN', 'WHITE', 'PINK', 'YELLOW']
+['RED', 'GREEN', 'WHITE', 'YELLOW']
+['RED', 'GREEN', 'WHITE', 'Purple', 'YELLOW']
